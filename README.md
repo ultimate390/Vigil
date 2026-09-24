@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🩺 Vigil
 
 ### Диспетчер процессов и системный монитор, который держит руку на пульсе твоего ПК
@@ -9,6 +11,8 @@
 ![Made by](https://img.shields.io/badge/made%20by-ultimate390-ff5a4d)
 
 *Что-то грузит систему? Куда лезет этот процесс? Что стартует само? — Vigil покажет. 👀*
+
+</div>
 
 ---
 
@@ -82,6 +86,10 @@ python -m PyInstaller --onefile --noconsole --uac-admin --icon=icon.ico --name V
 
 ---
 
+<div align="center">
+
 Сделано с ❤️ и кофе ☕ — **[@ultimate390](https://github.com/ultimate390)**
 
 ⭐ Понравилось? Поставь звезду — это мотивирует пилить дальше!
+
+</div>
